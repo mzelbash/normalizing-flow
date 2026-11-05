@@ -73,15 +73,7 @@ python3 -m http.server 8000
 |---|---|
 | Space | Play through the layers |
 | ← / → | Step one layer back or forward |
-
-## Suggested classroom walk-through (about 10 minutes)
-
-1. Start with **Two moons** and press **Train**.
-2. Point out that the loss is the exact negative log-likelihood.
-3. Drag the slider from x to z and stop at a few layers along the way.
-4. Switch to **Generate** and compare the new samples with the original picture.
-5. Retrain with **4 layers** and discuss what changes.
-6. Point to the round-trip error: the flow is invertible to about 10⁻¹⁵.
+ 
 
 ## Learn more
 
